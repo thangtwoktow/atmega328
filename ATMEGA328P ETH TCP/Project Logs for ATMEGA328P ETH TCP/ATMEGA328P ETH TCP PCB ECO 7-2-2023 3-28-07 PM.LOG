@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=U_ENC28J60 Member=U3
+Removed Member From Class: ClassName=U_RELAY_8CH Member=U13
+Added Component: Designator=RL?(RL_SPDT_10A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ATMEGA328P ETH TCP Member=Component RL? Relay
+Added Member To Class: ClassName=U_ENC28J60 Member=Component U2 ENC28J60/SO
+Added Member To Class: ClassName=U_RELAY_8CH Member=Component U4 UNK_Everlight_EL3H7_B_TA_-VG_eec
+Added Member To Class: ClassName=U_RELAY_8CH Member=Component U5 UNK_Everlight_EL3H7_B_TA_-VG_eec
+Added Member To Class: ClassName=U_RELAY_8CH Member=Component U7 UNK_Everlight_EL3H7_B_TA_-VG_eec
+Added Member To Class: ClassName=U_RELAY_8CH Member=Component U9 UNK_Everlight_EL3H7_B_TA_-VG_eec
+Added Member To Class: ClassName=U_RELAY_8CH Member=Component U11 UNK_Everlight_EL3H7_B_TA_-VG_eec
+Added Member To Class: ClassName=U_INPUT_8CH Member=Component U12 UNK_Everlight_EL3H7_B_TA_-VG_eec
+Added Member To Class: ClassName=U_INPUT_8CH Member=Component U14 UNK_Everlight_EL3H7_B_TA_-VG_eec
+Added Member To Class: ClassName=U_INPUT_8CH Member=Component U16 UNK_Everlight_EL3H7_B_TA_-VG_eec
+Added Member To Class: ClassName=U_INPUT_8CH Member=Component U18 UNK_Everlight_EL3H7_B_TA_-VG_eec

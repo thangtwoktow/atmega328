@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetQ1_2 Pin=RL?1-1
+Removed Pin From Net: NetName=COM1 Pin=RL?1-2
+Removed Pin From Net: NetName=GND_RELAY Pin=RL?1-5
+Removed Pin From Net: NetName=T_RL3 Pin=RL?2-1
+Removed Pin From Net: NetName=COM1 Pin=RL?2-2
+Removed Pin From Net: NetName=NetQ2_2 Pin=RL?2-4
+Removed Pin From Net: NetName=NetQ4_2 Pin=RL?2-5
+Removed Pin From Net: NetName=T_RL5 Pin=RL?3-1
+Removed Pin From Net: NetName=COM2 Pin=RL?3-3
+Removed Pin From Net: NetName=T_RL4 Pin=RL?3-4
+Removed Pin From Net: NetName=NetQ6_2 Pin=RL?3-5
+Removed Pin From Net: NetName=NetQ8_2 Pin=RL?4-1
+Removed Pin From Net: NetName=COM2 Pin=RL?4-3
+Removed Pin From Net: NetName=NetQ7_2 Pin=RL?4-4
+Removed Pin From Net: NetName=NetQ8_2 Pin=RL?4-5
+Added Component: Designator=RL?(relay SRA CL)
+Added Member To Class: ClassName=ATMEGA328P ETH TCP Member=Component RL? RELAY 5 PIN

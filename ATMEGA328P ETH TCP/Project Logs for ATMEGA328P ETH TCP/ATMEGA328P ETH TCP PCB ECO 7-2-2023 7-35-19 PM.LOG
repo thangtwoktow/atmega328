@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND_RELAY Pin=RL?1-3
+Removed Pin From Net: NetName=COM1 Pin=RL?1-5
+Removed Pin From Net: NetName=NetQ5_2 Pin=RL?2-3
+Removed Pin From Net: NetName=NetQ7_2 Pin=RL?3-3
+Removed Member From Class: ClassName=ATMEGA328P ETH TCP Member=RL?

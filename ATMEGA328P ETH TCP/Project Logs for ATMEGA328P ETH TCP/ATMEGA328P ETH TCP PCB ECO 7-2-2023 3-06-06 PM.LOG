@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Change Component Designator: OldDesignator=U10 NewDesignator=U11
+Change Component Designator: OldDesignator=U11 NewDesignator=U12
+Change Component Designator: OldDesignator=U12 NewDesignator=U13
+Change Component Designator: OldDesignator=U13 NewDesignator=U14
+Change Component Designator: OldDesignator=U14 NewDesignator=U15
+Change Component Designator: OldDesignator=U15 NewDesignator=U16
+Change Component Designator: OldDesignator=U16 NewDesignator=U17
+Change Component Designator: OldDesignator=U17 NewDesignator=U18
+Change Component Designator: OldDesignator=U18 NewDesignator=U19
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Pin To Net: NetName=NetC22_1 Pin=P2-2
+Added Pin To Net: NetName=NetC24_1 Pin=P2-3
+Added Pin To Net: NetName=NetC26_1 Pin=P2-4
+Added Pin To Net: NetName=NetC28_1 Pin=P2-5
+Added Pin To Net: NetName=NetC30_1 Pin=P2-7
+Added Pin To Net: NetName=NetC32_1 Pin=P2-8
+Added Pin To Net: NetName=NetC34_1 Pin=P2-9
+Added Pin To Net: NetName=NetC36_1 Pin=P2-10
+Change Net Name : Old Net Name=NetU1_3 New Net Name=NetU2_3
+Change Net Name : Old Net Name=NetU1_4 New Net Name=NetU2_4
+Change Net Name : Old Net Name=NetU1_6 New Net Name=NetU2_6
+Change Net Name : Old Net Name=NetU1_7 New Net Name=NetU2_7
+Change Net Name : Old Net Name=NetU1_8 New Net Name=NetU2_8
+Change Net Name : Old Net Name=NetU1_9 New Net Name=NetU2_9
+Added Pin To Net: NetName=COM1 Pin=C22-2
+Added Pin To Net: NetName=COM1 Pin=C24-2
+Added Pin To Net: NetName=COM1 Pin=C26-2
+Added Pin To Net: NetName=COM1 Pin=C28-2
+Added Pin To Net: NetName=COM1 Pin=P2-1
+Added Pin To Net: NetName=COM1 Pin=RL1-4
+Added Pin To Net: NetName=COM1 Pin=RL2-4
+Added Pin To Net: NetName=COM1 Pin=RL3-4
+Added Pin To Net: NetName=COM1 Pin=RL4-4
+Added Net: Name=COM1
+Added Pin To Net: NetName=COM2 Pin=C30-2
+Added Pin To Net: NetName=COM2 Pin=C32-2
+Added Pin To Net: NetName=COM2 Pin=C34-2
+Added Pin To Net: NetName=COM2 Pin=C36-2
+Added Pin To Net: NetName=COM2 Pin=P2-6
+Added Pin To Net: NetName=COM2 Pin=RL5-4
+Added Pin To Net: NetName=COM2 Pin=RL6-4
+Added Pin To Net: NetName=COM2 Pin=RL7-4
+Added Pin To Net: NetName=COM2 Pin=RL8-4
+Added Net: Name=COM2

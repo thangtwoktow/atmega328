@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=NetQ7_2 Pin=Q7-2
+Added Pin To Net: NetName=+3.3V_PHR Pin=R13-1
+Added Pin To Net: NetName=+3.3V_PHR Pin=R16-1
+Added Pin To Net: NetName=+3.3V_PHR Pin=R18-1
+Added Pin To Net: NetName=+3.3V_PHR Pin=R22-1
+Added Pin To Net: NetName=+3.3V_PHR Pin=R25-1
+Added Pin To Net: NetName=+3.3V_PHR Pin=R27-1
+Added Pin To Net: NetName=+3.3V_PHR Pin=R31-1
+Added Pin To Net: NetName=+3.3V_PHR Pin=R34-1
+Added Pin To Net: NetName=NetQ7_2 Pin=R39-2
+Added Pin To Net: NetName=NetQ7_2 Pin=R40-1
+Change Class Name : Old Net Name=U_RELAY New Net Name=U_RELAY_8CH
+Change Room Name: Old Name=U_RELAY New Name=U_RELAY_8CH
+Change Room Scope: Old Scope=InComponentClass('U_RELAY') New Scope=InComponentClass('U_RELAY_8CH')

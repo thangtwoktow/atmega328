@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND_EX Pin=P3-1
+Removed Pin From Net: NetName=NetP3_2 Pin=R43-1
+Removed Pin From Net: NetName=NetP3_3 Pin=R45-1
+Removed Pin From Net: NetName=NetP3_4 Pin=R47-1
+Removed Pin From Net: NetName=NetP3_6 Pin=R51-1
+Removed Pin From Net: NetName=NetP3_7 Pin=R53-1
+Removed Pin From Net: NetName=NetP3_8 Pin=R55-1
+Added Pin To Net: NetName=GND_EX Pin=P3-9
+Added Pin To Net: NetName=NetP3_8 Pin=R43-1
+Added Pin To Net: NetName=NetP3_7 Pin=R45-1
+Added Pin To Net: NetName=NetP3_6 Pin=R47-1
+Added Pin To Net: NetName=NetP3_4 Pin=R51-1
+Added Pin To Net: NetName=NetP3_3 Pin=R53-1
+Added Pin To Net: NetName=NetP3_2 Pin=R55-1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R57-1
+Added Net: Name=NetP3_1
+Added Member To Class: ClassName=U_LM2976 Member=Component P1 691312510002
+Added Member To Class: ClassName=U_RELAY_8CH Member=Component P2 691312510010
